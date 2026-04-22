@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rick/repos/c-projects/c-lang/hello'
+relocations:     []
+...
